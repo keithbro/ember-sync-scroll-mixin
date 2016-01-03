@@ -1,0 +1,8 @@
+.component {
+  border: 1px solid black;
+  float: left;
+  margin: 20px;
+  overflow: scroll;
+  height: 200px;
+  width: 200px;
+}
